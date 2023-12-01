@@ -1,7 +1,7 @@
 [project]
 name = "tldraw"
 version = "0.1.0"
-description = "Add a short description here"
+description = "Tldraw project"
 authors = ["Sébastien Boisgérault <Sebastien.Boisgerault@gmail.com>"]
 channels = ["conda-forge"]
 platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
