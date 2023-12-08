@@ -6,6 +6,6 @@
 
  1. Download its content on your computer.
 
- 2. Install the [pixi](https://pixi.sh/) package manager.
+ 2. [Install the pixi package manager](https://pixi.sh/#installation).
 
  3. Open a terminal in the project root folder and type `pixi run start`.
