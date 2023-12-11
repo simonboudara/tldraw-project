@@ -30,4 +30,4 @@ Read the contents of [`pixi.toml`](pixi.toml):
     followed by the name of a task. 
     
     Here `pixi run start` invokes `jupyter lab` 
-    in an environment where the conda-forge and pypi dependencies are met.
+    in an environment where the conda-forge and Pypi dependencies are met.
