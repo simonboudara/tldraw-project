@@ -27,5 +27,7 @@ Read the contents of [`pixi.toml`](pixi.toml):
     Install them with `pip`.
 
   - The `[tasks]` section tells you what happens when you call `pixi run` 
-    followed by the name of a task. Here `pixi run start` invokes `jupyter lab` 
+    followed by the name of a task. 
+    
+    Here `pixi run start` invokes `jupyter lab` 
     in an environment where the conda-forge and pypi dependencies are met.
