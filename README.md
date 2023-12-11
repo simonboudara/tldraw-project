@@ -17,10 +17,14 @@ If for some reason pixi doesn't work for you, you will need a bit more work.
 Read the contents of [`pixi.toml`](pixi.toml):
 
   - The `[dependencies]` section contains the conda-forge packages that the 
-    project needs ; install them with `conda`.
+    project needs. 
+    
+    Install them with `conda`.
 
   - The `[pypi-dependencies]` section contains the Pypi packages that the 
-    project needs ; install them with `pip`.
+    project needs. 
+    
+    Install them with `pip`.
 
   - The `[tasks]` section tells you what happens when you call `pixi run` 
     followed by the name of a task. Here `pixi run start` invokes `jupyter lab` 
