@@ -1,5 +1,7 @@
 # Tldraw Project
 
+![Tldraw](images/hello-tldraw.png)
+
 ## Quickstart
 
  0. [Install the pixi package manager](https://pixi.sh/#installation).
