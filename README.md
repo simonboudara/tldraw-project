@@ -14,7 +14,7 @@
 
 If for some reason pixi doesn't work for you, you will need a bit more work.
 
-Read the contents of [`pixi.toml`][pixi.toml]:
+Read the contents of [`pixi.toml`](pixi.toml):
 
   - The `[dependencies]` section contains the conda-forge packages that the 
     project needs ; install them with `conda`.
